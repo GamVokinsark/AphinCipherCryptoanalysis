@@ -1,0 +1,9 @@
+D:\Projects\Aphin\Aphin\bin\Release\Aphin.exe
+D:\Projects\Aphin\Aphin\bin\Release\Aphin.pdb
+D:\Projects\Aphin\Aphin\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Projects\Aphin\Aphin\obj\x86\Release\Aphin.Form1.resources
+D:\Projects\Aphin\Aphin\obj\x86\Release\Aphin.Properties.Resources.resources
+D:\Projects\Aphin\Aphin\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Projects\Aphin\Aphin\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Projects\Aphin\Aphin\obj\x86\Release\Aphin.exe
+D:\Projects\Aphin\Aphin\obj\x86\Release\Aphin.pdb
